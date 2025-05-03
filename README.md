@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! 👋
 
-I'm an aspiring data analyst with an industrial engineering background. I have a keen interest in data science and machine learning. Always looking to take on projects and expand my skillset!
+I'm a data analyst with an industrial engineering background. I have a keen interest in data science and machine learning. Always looking to take on projects and expand my skillset!
 
 Areas of Knowledge:
 - Python Programming
